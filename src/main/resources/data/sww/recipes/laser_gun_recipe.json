@@ -1,0 +1,28 @@
+{
+  "group": "sww",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sww:laser_charge"
+    },
+    {
+      "item": "sww:laser_charge"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "sww:laser_gun",
+    "count": 1
+  }
+}

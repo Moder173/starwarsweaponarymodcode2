@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="sww"
+version="1.0.0"
+displayName="StarWarsWeaponry"
+credits="John, Pylo"
+displayURL="https://github.com/"
+updateJSONURL="https://github.com/"
+logoFile="logo.png"
+authors="John"
+description='''
+Adds Lightsabre and Laser gun.
+'''
+
+[[dependencies.sww]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

@@ -1,0 +1,89 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LaserCharge",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laser_charge"
+    },
+    {
+      "name": "LaserGun",
+      "type": "gun",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laser_gun"
+    },
+    {
+      "name": "LightSabre",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_sabre"
+    },
+    {
+      "name": "LightSabreRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_sabre_recipe"
+    },
+    {
+      "name": "LaserChargeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laser_charge_recipe"
+    },
+    {
+      "name": "LaserGunRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laser_gun_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.sww.light_sabre": "Light Sabre",
+      "item.sww.laser_charge": "Laser Charge",
+      "item.sww.laser_gun": "Laser Gun"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "sww",
+    "modName": "StarWarsWeaponry",
+    "version": "1.0.0",
+    "description": "Adds Lightsabre and Laser gun.",
+    "author": "John",
+    "websiteURL": "https://github.com/",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "updateURL": "https://github.com/",
+    "modPicture": "modicon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "John, Pylo",
+    "modElementsPackage": "net.mcreator.sww",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
